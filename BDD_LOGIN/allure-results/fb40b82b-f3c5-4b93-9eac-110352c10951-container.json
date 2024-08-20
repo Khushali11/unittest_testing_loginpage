@@ -1,0 +1,1 @@
+{"uuid": "c4d8ef7d-808b-45eb-a2d9-054756796d55", "befores": [{"name": "_unittest_setUpClass_fixture_TestLoginPage", "status": "passed", "start": 1723990966397, "stop": 1723990966397}], "afters": [{"name": "_unittest_setUpClass_fixture_TestLoginPage::0", "status": "passed", "start": 1723990967116, "stop": 1723990967116}], "start": 1723990966397, "stop": 1723990967116}
